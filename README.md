@@ -115,6 +115,6 @@ This project demonstrates that selecting the right content and style layer depth
 
 ## 🙌 Credits
 
-- Content Image: Dog (Royalty-Free)
-- Style Image: Painting by Van Gogh
+- Content Image: [Dog (Royalty-Free)](https://images.app.goo.gl/pU53EfBZFBdo5ZH2A)
+- Style Image: [Composition VII by Wassily Kandinsky](https://www.wassily-kandinsky.org/Composition-VII.jsp)
 - Based on principles from [Gatys et al. (2015)](https://arxiv.org/abs/1508.06576)
